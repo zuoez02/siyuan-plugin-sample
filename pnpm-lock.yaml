@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  siyuan: ^0.3.12
+  siyuan: ^0.6.1
   vite: ^4.1.4
 
 dependencies:
-  siyuan: 0.3.12
+  siyuan: 0.6.1
   vite: 4.1.4
 
 packages:
@@ -303,8 +303,8 @@ packages:
       fsevents: 2.3.2
     dev: false
 
-  /siyuan/0.3.12:
-    resolution: {integrity: sha512-Hcjn7Ujisayi9SW5o0DBtV2Jj/B8PKEXlIksJfbyeTYAtTBpgy++Fhy3nO0Pz1rJazadLt/dxKZ1X8JvlDgFHw==}
+  /siyuan/0.6.1:
+    resolution: {integrity: sha512-0QrM78wJAKrvujjyPFZH7EmhKc5n4qh84ZMwCzGN8mADx3cXa+rJrfuVuaWZIwsps68RTgY2vGtJAdx56UcjcA==}
     dev: false
 
   /source-map-js/1.0.2:
